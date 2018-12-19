@@ -1,0 +1,10 @@
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\bin\Debug\SimpleEncryptionChatClient.exe.config
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\bin\Debug\SimpleEncryptionChatClient.exe
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\bin\Debug\SimpleEncryptionChatClient.pdb
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\obj\Debug\SimpleEncryptionChatClient.csprojResolveAssemblyReference.cache
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\obj\Debug\SimpleEncryptionChatClient.Form1.resources
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\obj\Debug\SimpleEncryptionChatClient.Properties.Resources.resources
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\obj\Debug\SimpleEncryptionChatClient.csproj.GenerateResource.Cache
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\obj\Debug\SimpleEncryptionChatClient.csproj.CoreCompileInputs.cache
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\obj\Debug\SimpleEncryptionChatClient.exe
+c:\users\corrupted\source\repos\SimpleEncryptionChat\SimpleEncryptionChatClient\obj\Debug\SimpleEncryptionChatClient.pdb
