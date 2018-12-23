@@ -67,7 +67,7 @@ namespace SimpleEncryptionChat
                 LingerOption death = new LingerOption(false, 0);
                 IPEndPoint localEndPoint = new IPEndPoint(IPAddress.Any, Convert.ToInt32(Port));
                 Socket ServerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-                MessageBox.Show("Pause");
+                //MessageBox.Show("Pause");
                 ServerSocket.Bind(localEndPoint); //Fix Multiple Binds
                 ServerSocket.Listen(10);
                 ServerSocket.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.Linger, death);
